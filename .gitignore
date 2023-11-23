@@ -35,6 +35,6 @@ ebs_list.json
 .terraformrc
 terraform.rc
 .terraform.lock.hcl
-
+**.terraform*
 # no creds
 *.pem
